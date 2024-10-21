@@ -31,12 +31,15 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "ReactJS development",
+  "JavaScript (ES6+)",
+  "Responsive web design",
+  "Front-end performance optimization",
+  "API integration",
+  "Node.js",
+  "Version control (Git, GitHub)",
+  "UI/UX design",
+  "Debugging and troubleshooting",
 ];
 
 /**
@@ -45,7 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a passionate MERN stack developer, I enjoy solving complex problems and building scalable solutions. I focus on ReactJS and always explore new ways to create efficient, responsive, and user-friendly applications.";
 
 const About = () => {
   return (
