@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/eco-craft.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Eco Craft Photo";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Eco Craft | A e-commerce platform dedicated to craft enthusiasts 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Eco Craft is an e-commerce platform dedicated to art and craft enthusiasts. It allows users to explore, add, manage, and purchase various art and craft items.",
+    url: "https://eco-craft-beta.web.app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Neighbourly | Bridging Residents and Reliable Service Providers",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Neighbourly connects residents with skilled workers for home services, making it easy to hire trusted professionals in your community.",
+    url: "https://neighbourly-beta.web.app",
   },
   {
-    title: "My Resume Site",
+    title: "Learnic | Collaborative study platform",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A collaborative study platform designed to connect students, tutors, and administrators for streamlined study session scheduling, resource sharing, and user management.",
+    url: "https://learnic-live.web.app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Recylo | A hassle-free buying and selling of recyclable materials",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Enjoy hassle-free buying and selling of recyclable materials. Join our community today and make a positive impact on the environment.",
+    url: "https://recyclo-beta.web.app",
   },
 ];
 
